@@ -1,0 +1,13 @@
+[
+    {
+        "Name":"B",
+        "Building":"C",
+        "IsValid": false,
+        "MicrocontrollerMac":"",
+        "MicrocontrollerSerial":"",
+        "MicrocontrollerIp":"",
+        "Nut1":"B1",
+        "Nut2":"B2",
+        "Nut3":"B3"
+    }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "Day": "Tuesday",
+    "StartTime": "09:00:00",
+    "EndTime": "10:20:00",
+    "ProfessorAttended": false,
+    "ProfessorNationalId": "46763656677501",
+    "CourseId": 4,
+    "HallId": 3
+  }
+]
